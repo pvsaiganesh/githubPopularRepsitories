@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.card {
+  height: 400px;
+  width: 400px;
+  background-color: #f8f8ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+  align-self: center;
+}
+.small-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+}
